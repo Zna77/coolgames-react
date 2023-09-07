@@ -112,7 +112,7 @@ const ImageSliderWrapper = styled.div`
       position: absolute;
       right: 16px!important;
       z-index: 5;
-      transform: scale(1.4);
+      transform: scale(1.3);
     }
   }
 `;

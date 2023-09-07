@@ -11,7 +11,7 @@ import game_details_image from "../assets/images/game_details_image.png";
 import loader from "../assets/images/loader.gif";
 import store_image from "../assets/images/store_image.png";
 
-// slider images import and then exported
+// slider images imported and then exported
 const sliderImages = [
   slider_img_1,
   slider_img_2,
